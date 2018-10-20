@@ -9,7 +9,7 @@ layout: compress
 
 <body>
     <div id="preloader" class="preloader">
-        <div class="loader-gplus"></div>
+        <div class="lds-ring"></div>
     </div>
 
     <div id="st-container" class="st-container disable-scrolling">
@@ -48,11 +48,11 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDj4Ih6Q9u9dBdjuvRJwJ92zeQk6ouQnlI"><\/script>')
         } 
     </script>
     {% elsif page.permalink == '/logistics/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDj4Ih6Q9u9dBdjuvRJwJ92zeQk6ouQnlI&libraries=places,geometry"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
