@@ -1,60 +1,67 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Subhransu"
+  surname: "Behera"
+  title: "Conference Origanizer"
+  thumbnailUrl: subhransu.jpeg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "iOSConfSG", title: "iOS Conf SG"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/subhransu"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/subhransubehera"}
+    - {name: "github", link: "https://github.com/subhransu"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Melvin"
+  surname: "Tan"
+  title: "Sponsors and Speakers Manager"
+  thumbnailUrl: melvin.jpeg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "iOSConfSG", title: "iOS Conf SG"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/Melvin_tan"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/melvintansl"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Kale"
+  surname: "Toh"
+  title: "Website and Mobile App"
+  thumbnailUrl: kale.jpeg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "iOSConfSG", title: "iOS Conf SG"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kaletoh"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Valentine"
+  surname: "Chua"
+  title: "Ticketing and Logistics"
+  thumbnailUrl: valentine.png
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/valentinechua"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
+
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 5
+  name: "Vina"
+  surname: "Melody"
+  title: "Ticketing and Emcee"
+  thumbnailUrl: vina.jpeg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/vinamelody"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vinamelody"}
+
+- 
+  id: 6
+  name: "Stefanie"
+  surname: "Seah"
+  title: "Speakers and Registration"
+  thumbnailUrl: stef.jpeg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/stefanieseah"}
