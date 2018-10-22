@@ -9,6 +9,18 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/twostraws"}
+
+- 
+  id: 4
+  name: "Yasuhiro"
+  surname: "Inami"
+  company: "CyberAgent, Inc"
+  bio: "While creating iPhone apps such as messenger, camera, news app in his work, he also spends time on making open source projects using Swift and Haskell. You can find him at GitHub: https://github.com/inamiy"
+  thumbnailUrl: yasuhiro.jpg  
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/inamiy"}
+
 - 
   id: 2
   name: "Daniel"
@@ -22,7 +34,7 @@ Daniel presents iPhone, Cocoa, and Swift training and consults through his compa
   thumbnailUrl: daniel.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/dimsumthinking"}
+    - {name: "twitter", link: "https://twitter.com/dimsumthinking"}    
 
 - 
   id: 3
@@ -34,13 +46,4 @@ Daniel presents iPhone, Cocoa, and Swift training and consults through his compa
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/khanlou"}
-- 
-  id: 4
-  name: "Yasuhiro"
-  surname: "Inami"
-  company: "CyberAgent, Inc"
-  bio: "While creating iPhone apps such as messenger, camera, news app in his work, he also spends time on making open source projects using Swift and Haskell. You can find him at GitHub: https://github.com/inamiy"
-  thumbnailUrl: yasuhiro.jpg  
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/inamiy"}
+
