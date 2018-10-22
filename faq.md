@@ -39,7 +39,7 @@ The agenda will be updated on our website closer to the date. You are encouraged
 Drop us an email for the group discount.<br/><br/>
 
 <b>What are the sponsorship opportunities?</b><br />
-We are looking for sponsors! Kindly check our <a href="/#sponsor" target="_blank">Sponsor Kit</a> and contact Subh if you are interested. <br /> <br />
+We are looking for sponsors! Kindly check our <a href="/#sponsors" target="_blank">Sponsor Kit</a> and contact Subh if you are interested. <br /> <br />
 </p>
 </div>
 </div>                              
