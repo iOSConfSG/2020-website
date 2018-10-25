@@ -14,7 +14,7 @@ title: "iOS Conf SG 2019"
 email: "subh@iosconf.sg"
 description: "The largest iOS developer conference in Southeast Asia."
 baseurl: ""
-url: "http:iosconf.sg"
+url: "https://2019.iosconf.sg"
 permalink: "/blog/:title"
 
 # Organizer Info
