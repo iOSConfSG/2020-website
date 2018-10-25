@@ -7,7 +7,7 @@ safe: false
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-
+include: ['_redirects']
 
 # Site Settings
 title: "iOS Conf SG 2019"

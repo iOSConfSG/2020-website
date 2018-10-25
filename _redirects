@@ -1,0 +1,7 @@
+# Redirect domain aliases to primary domain on Netlify
+# See https://www.netlify.com/docs/redirects/#handling-hostnames-and-protocols-differently
+
+http://iosconf.sg/* https://2019.iosconf.sg/:splat 301!
+https://iosconf.sg/* https://2019.iosconf.sg/:splat 301!
+http://www.iosconf.sg/* https://2019.iosconf.sg/:splat 301!
+https://www.iosconf.sg/* https://2019.iosconf.sg/:splat 301!
