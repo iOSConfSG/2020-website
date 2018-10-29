@@ -38,12 +38,12 @@
   id: 4
   name: "Valentine"
   surname: "Chua"
-  title: "Ticketing and Logistics"
-  thumbnailUrl: valentine.png
+  title: "Finance"
+  thumbnailUrl: valentine.jpg
   team: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/valentinechua"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "twitter", link: "https://twitter.com/ValentineChua"}
+    - {name: "github", link: "https://github.com/valentine"}
 
 - 
   id: 5
