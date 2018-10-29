@@ -140,7 +140,7 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About us"
 aboutUs: "We are a bunch of nerds, crazy ones. We love iOS and passionate about building apps in Swift. We are inspired and motivated by the technology and eco-system Apple provides for developers and believe if we bring the power of these technologies to every iOS developers we know then we all can contribute in building smarter and better apps. We started iOS Conf SG in 2015. Since then the community has grown to make the conference the largest iOS developer conference in South East Asia."
-coOrganizers: "iOS Conf SG is brought to you by CU Society and iOS Dev Scout. CU Society is a non-profit organization that aims to bring tech communities of Singapore together. iOS Dev Scout is the iOS developer meetup group that organizes iOS meetups in Singapore every month."
+coOrganizers: "iOS Conf SG is brought to you by iOS Dev Scout, under the auspices of CU Society. iOS Dev Scout is the iOS developer meetup group that organizes iOS meetups in Singapore every month. CU Society is a non-profit organization that supports various computer technology events and communities in Singapore."
 
 # Workshop
 workshopTitle: "Workshop"
