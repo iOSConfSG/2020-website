@@ -15,9 +15,7 @@
   surname: "Steinberg"
   company: "Dim Sum Thinking"
   bio: "Daniel is the author of more than a dozen books including the best selling books A Swift Kickstart and Developing iOS 7 Apps for iPad and iPhone (the official companion book to the popular iTunes U series from Stanford University).
-
 He has written apps for the iPhone and the iPad since the SDKs first appeared and has written programs for the Mac all the way back to System 7.
-
 Daniel presents iPhone, Cocoa, and Swift training and consults through his company Dim Sum Thinking. When he's not coding or talking about coding for the Mac, the iPhone, and the iPad he's probably cooking or hanging out with friends."
   thumbnailUrl: daniel.jpg
   rockstar: true
@@ -25,7 +23,7 @@ Daniel presents iPhone, Cocoa, and Swift training and consults through his compa
     - {name: "twitter", link: "https://twitter.com/dimsumthinking"}
 
 - 
-  id: 4
+  id: 3
   name: "Yasuhiro"
   surname: "Inami"
   company: "CyberAgent, Inc"
@@ -36,7 +34,7 @@ Daniel presents iPhone, Cocoa, and Swift training and consults through his compa
     - {name: "twitter", link: "https://twitter.com/inamiy"}    
 
 - 
-  id: 3
+  id: 4
   name: "Soroush"
   surname: "Khanlou"
   company: "khanlou.com"
@@ -46,3 +44,112 @@ Daniel presents iPhone, Cocoa, and Swift training and consults through his compa
   social: 
     - {name: "twitter", link: "https://twitter.com/khanlou"}
 
+- 
+  id: 5
+  name: "Agnes"
+  surname: "Vasarhelyi"
+  company: "plangrid.com"
+  bio: "Agnes is a Hungarian iOS developer living in San Francisco, hard at work bringing the high tech revolution to the construction industry at <a href='https://www.plangrid.com/' target='_blank'>PlanGrid</a>. Occasional <a href='https://blog.alltheflow.com/' target='_blank'>tech blogger</a> and <a href='https://craft-conf.com/2018/organisers' target='_blank'>event organizer</a>, preferably outside hiking the mountains of California in her free time. <br><br>Agnes has worked at several startups before PlanGrid, like Prezi, and Topology Eyewear, helping them build great user experiences. She’s all about Auto Layout, and <mark>lldb</mark> these days, or whatever comes her way worth diving deep into. 🤓"
+  thumbnailUrl: agnes.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/vasarhelyia"}
+
+- 
+  id: 6
+  name: "Steven"
+  surname: "Hepting"
+  company: "airbnb.com"
+  bio: "Steven Hepting is an iOS Engineer at Airbnb where he works on build systems, continuous integration, and optimizing the mobile app. Previously he did iOS work at Twitter and Microsoft for the TwitterKit SDK and the Yammer iOS app. <br><br>Originally from the frigid wasteland of the Canadian praries, he now lives in <s>sunny</s> foggy San Francisco with his wife and two children. He loves jogging (slowly, with a stroller), eating burritos, and tinkering with microcontrollers when he's not at work."
+  thumbnailUrl: steven.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/stevenhepting"}
+
+- 
+  id: 7
+  name: "Kenneth"
+  surname: "Poon"
+  company: "spgroup.com.sg"
+  bio: "Kenneth works as a Principal Software Engineer at SPGroup. He is passionate about TDD and BDD. He likes to bring agile software practices into agile development space. He is also a prominent speaker at iOS Dev Scout, especially on iOS topics like Testing and IPA Code Injection. He enjoys running and playing the piano while not thinking about failed tests."
+  thumbnailUrl: kenneth.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kenneth-poon-84217019"}
+
+- 
+  id: 8
+  name: "Jeffrey"
+  surname: "Bergier"
+  company: "mercari.com"
+  bio: "Jeffrey is an iOS Developer at Mercari in Tokyo. At university he studied industrial design and he was a UX designer for 4 years. He taught himself iOS development during that time. He tries to bring his design background into the design of his apps as well as the structure of his code."
+  thumbnailUrl: jeffery.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://www.twitter.com/jeffburg"}
+
+- 
+  id: 9
+  name: "Oscar"
+  surname: "Swanros"
+  company: "pspdfkit.com"
+  bio: "Oscar has 8 years of experience working with iOS technologies — most of that time, remotely from México. He is currently working on the most advanced PDF SDK for iOS, Android and the Web.<br><br> Oscar is passionate about teaching and music, as well as programming topics."
+  thumbnailUrl: oscar.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Swanros"}
+
+- 
+  id: 10
+  name: "Esteban"
+  surname: "Torres"
+  company: "soundcloud.com"
+  bio: "Core Clients Engineer @ SoundCloud; working as a liaison between the mobile clients and the backend services the Core Clients team @ SoundCloud helps both sides by developing tools, abstracting implementations and maintaining BFFs to help encapsulate bits of code from the org into smaller and more manageable parts."
+  thumbnailUrl: esteban.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/esttorhe"}
+
+- 
+  id: 11
+  name: "Mischa"
+  surname: "Hildebrand"
+  company: "intive.com"
+  bio: "Mischa has always been passionate about two things that don’t seem to have much in common: logic and creativity. He graduated in physics to discover the first and worked as a radio reporter for a couple of years to try out the latter. Later, he combined both his passions as an iOS developer and team lead at intive in Munich and then headed off to travel the world. Mischa tries to learn something new about Swift everyday and loves creating modular, adaptive user interfaces with Auto Layout. His favorite question: “Why?”"
+  thumbnailUrl: mischa.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/DerHildebrand"}
+
+- 
+  id: 12
+  name: "Vincent"
+  surname: "Pradeilles"
+  company: "worldline.com"
+  bio: "Vincent is a french iOS software engineer. He works for equensWorldline, in Lyon."
+  thumbnailUrl: vincent.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/v_pradeilles"}
+
+- 
+  id: 13
+  name: "Sasmito"
+  surname: "Adibowo"
+  company: "sap.com"
+  bio: "Sasmito has deep understanding in both iOS (Cocoa-touch) and macOS (Cocoa) software ecosystems – including design patterns, code practices, and human interface guidelines. He has good knowledge of graphics, custom controls, persistence, and multi-processing frameworks in these platforms which contributes to developing end-user applications with superior user experience."
+  thumbnailUrl: sasmito.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/SasmitoAdibowo"}
+
+- 
+  id: 14
+  name: "Heng Hong"
+  surname: "Lee"
+  company: "Indie Developer"
+  bio: "Heng hong is a former Facebook software engineer who has spent 4+ years working on iOS Core Infrastructure at Messenger."
+  thumbnailUrl: henghong.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/heng-hong-lee-8938373b"}
