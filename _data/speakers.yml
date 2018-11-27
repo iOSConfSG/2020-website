@@ -134,6 +134,17 @@ Daniel presents iPhone, Cocoa, and Swift training and consults through his compa
 
 - 
   id: 13
+  name: "Heng Hong"
+  surname: "Lee"
+  company: "Indie Developer"
+  bio: "Heng hong is a former Facebook software engineer who has spent 4+ years working on iOS Core Infrastructure at Messenger."
+  thumbnailUrl: henghong.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/heng-hong-lee-8938373b"}
+
+- 
+  id: 14
   name: "Sasmito"
   surname: "Adibowo"
   company: "sap.com"
@@ -144,12 +155,12 @@ Daniel presents iPhone, Cocoa, and Swift training and consults through his compa
     - {name: "twitter", link: "https://twitter.com/SasmitoAdibowo"}
 
 - 
-  id: 14
-  name: "Heng Hong"
-  surname: "Lee"
-  company: "Indie Developer"
-  bio: "Heng hong is a former Facebook software engineer who has spent 4+ years working on iOS Core Infrastructure at Messenger."
-  thumbnailUrl: henghong.jpg
+  id: 15
+  name: "Omer"
+  surname: "Iqbal"
+  company: "seagroup.com"
+  bio: "Omer is an iOS Engineer at Sea with a passion for using lldb to dig into private frameworks, and proselytising functional programming. These days he’s been writing some media code and has developed a paranoia for data races."
+  thumbnailUrl: omer.jpg
   rockstar: false
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/heng-hong-lee-8938373b"}
+    - {name: "twitter", link: "https://twitter.com/olenhad"}
