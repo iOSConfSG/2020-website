@@ -2,8 +2,20 @@
 <a name="sponsors"></a>
 <section id="partners" class="partners">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.organizersTitle }}</h3>
+        <div class="col-lg-10 col-lg-offset-1">            
+            <h3>{{ site.partnersTitle }}</h3>
+            {% for partner in site.data.partners %}
+            <h5>{{ partner.group }}</h5>
+            <ul class="list-inline">
+                {% for element in partner.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}           
             <p>If you'd like to support and engage our iOS community, please take a look at our <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" target="_blank"> Sponsor Kit</a> and <a href="mailto:subh@iosconf.sg">get in touch with us</a> for more information. Thank you!</p> <br/> 
 
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
@@ -11,4 +23,3 @@
     </div> 
 </section>
 <!-- End Partners Section -->
-

@@ -66,7 +66,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "72", specialCharacter: "+", info: "hours", detail: "of pure iOS and Swift talks"}
+ - {count: "3", specialCharacter: "+", info: "days", detail: "of pure iOS and Swift talks"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "1", specialCharacter: "", info: "track", detail: "plus unlimited coffee"}
 
@@ -96,7 +96,6 @@ venueBlockTitle: "Venue"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
 venueTitle: "Matrix at Biopolis"
 venueFeatures: ["30 Biopolis Street", "Singapore - 138671", "Near Buona Vista MRT"]
 
