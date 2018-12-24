@@ -66,7 +66,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "3", specialCharacter: "+", info: "days", detail: "of pure iOS and Swift talks"}
+ - {count: "3", specialCharacter: "", info: "days", detail: "of pure iOS and Swift talks"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  - {count: "1", specialCharacter: "", info: "track", detail: "plus unlimited coffee"}
 
