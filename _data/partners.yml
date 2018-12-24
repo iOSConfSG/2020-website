@@ -2,8 +2,5 @@
   group: "Gold Sponsors"
   elements: 
     - {name: "SPGroup", description: "SPGroup", link: "https://www.spgroup.com.sg/home", imageUrl: "spgroup.png"}
+    - {name: "WeWork", description: "WeWork", link: "https://www.wework.com/", imageUrl: "wework.png"}
     - {name: "SeaGroup", description: "SeaGroup", link: "https://www.seagroup.com/", imageUrl: "seagroup.png"}
-- 
-  group: "After-Party Sponsor"
-  elements: 
-    - {name: "GetLinks", description: "GetLinks", link: "https://getlinks.co/", imageUrl: "getlinks.png", width: "400px"}
