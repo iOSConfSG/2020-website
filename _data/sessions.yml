@@ -26,14 +26,6 @@
   service: true
 -
   id: 101
-  title: "Chek-in 📝"
-  service: true
--
-  id: 101
-  title: "Chek-in 📝"
-  service: true                
--
-  id: 101
   title: "Registration + Breakfast 📝"
   service: true
 -
