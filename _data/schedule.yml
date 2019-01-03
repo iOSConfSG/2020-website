@@ -1,50 +1,204 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2019-01-17"
+  dateReadable: "January 17 - Workshop"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Workshop on 17th January", color: "#e28d35"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+        startTime: "8:00",
+        endTime: "9:00",
+        sessionIds: [001]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
+        startTime: "9:00",
+        endTime: "10:30",
+        sessionIds: [002]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
-    }
-- 
-  date: "2014-10-25"
-  dateReadable: "October 25"
-  tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-  timeslots: 
-    - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [404, 002]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "10:30",
+        endTime: "10:45",
         sessionIds: [003]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
+        startTime: "10:45",
+        endTime: "12:30",
+        sessionIds: [002]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "15:00",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:20",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "15:20",
+        endTime: "17:00",
+        sessionIds: [005]
+    }
+- 
+  date: "2019-01-18"
+  dateReadable: "January 18 - Conference, Day 1"
+  tracks: 
+    - {title: "Sessions on 18th January", color: "#e28d35"}
+  timeslots:
+    - {
+    	startTime: "8:00",
+    	endTime: "9:30",
+    	sessionIds: [101]
+    }
+    - {
+        startTime: "9:30",
+        endTime: "10:00",
+        sessionIds: [102]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:35",
+    	sessionIds: [103]
+    }
+    - {
+        startTime: "10:35",
+        endTime: "11:10",
+        sessionIds: [104]
+    }
+    - {
+        startTime: "11:10",
+        endTime: "11:25",
+        sessionIds: [105]
+    }
+    - {
+        startTime: "11:25",
+        endTime: "12:00",
+        sessionIds: [106]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:35",
+        sessionIds: [107]
+    }
+    - {
+        startTime: "12:35",
+        endTime: "14:00",
+        sessionIds: [108]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "14:35",
+        sessionIds: [109]
+    }
+    - {
+        startTime: "14:35",
+        endTime: "15:10",
+        sessionIds: [110]
+    }
+    - {
+        startTime: "15:10",
+        endTime: "15:40",
+        sessionIds: [111]
+    }
+    - {
+        startTime: "15:40",
+        endTime: "16:15",
+        sessionIds: [112]
+    }
+    - {
+        startTime: "16:15",
+        endTime: "16:50",
+        sessionIds: [113]
+    }
+    - {
+        startTime: "16:50",
+        endTime: "17:00",
+        sessionIds: [114]
+    }
+
+- 
+  date: "2019-01-19"
+  dateReadable: "January 19 - Conference, Day 2"
+  tracks: 
+    - {title: "Sessions on 19th January", color: "#e28d35"}
+  timeslots:
+    - {
+        startTime: "8:30",
+        endTime: "9:50",
+        sessionIds: [201]
+    }
+    - {
+        startTime: "9:50",
+        endTime: "10:00",
+        sessionIds: [202]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:35",
+        sessionIds: [203]
+    }
+    - {
+        startTime: "10:35",
+        endTime: "11:10",
+        sessionIds: [204]
+    }
+    - {
+        startTime: "11:10",
+        endTime: "11:25",
+        sessionIds: [205]
+    }
+    - {
+        startTime: "11:25",
+        endTime: "12:00",
+        sessionIds: [206]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:35",
+        sessionIds: [207]
+    }
+    - {
+        startTime: "12:35",
+        endTime: "14:00",
+        sessionIds: [208]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "14:35",
+        sessionIds: [209]
+    }
+    - {
+        startTime: "14:35",
+        endTime: "15:10",
+        sessionIds: [210]
+    }
+    - {
+        startTime: "15:10",
+        endTime: "15:40",
+        sessionIds: [211]
+    }
+    - {
+        startTime: "15:40",
+        endTime: "16:15",
+        sessionIds: [212]
+    }
+    - {
+        startTime: "16:15",
+        endTime: "16:50",
+        sessionIds: [213]
+    }
+    - {
+        startTime: "16:50",
+        endTime: "17:00",
+        sessionIds: [214]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "21:30",
+        sessionIds: [215]
     }

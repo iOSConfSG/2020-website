@@ -164,3 +164,14 @@ Daniel presents iPhone, Cocoa, and Swift training and consults through his compa
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/olenhad"}
+
+- 
+  id: 16
+  name: "Christian"
+  surname: "Grail"
+  company: "sap.com"
+  bio: "Christian is a Development Architect at SAP in Germany. With the SAP Design team he works on frontrunner projects in the Enterprise space."
+  thumbnailUrl: christian.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/cgrail"}    
