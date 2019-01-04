@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Chek-in 📝"
+  title: "Check-in 📝"
   service: true
 -
   id: 002
@@ -54,7 +54,7 @@
   description: "What do Uber, Facebook, and Airbnb all have in common?They use the Buck build system to manage millions of lines of code, across hundreds of iOS engineers, building many iOS apps.In this talk, Steven will share how Buck can make builds faster (smartly optimizing build hierarchies), consistent (hermetic build descriptions), and efficient (caching everything on the server except what code has changed locally)."
 -
   id: 107
-  title: "How to Solve Constraints with the Cassowary Algorithm"
+  title: "Behind the Scenes with Auto Layout - How to Solve Constraints with the Cassowary Algorithm"
   speakers: [5]
   description: "Auto Layout is the most powerful tool on iOS today, to support developers in creating adaptive user interfaces on iOS. The power of this great technology lies in how simple its foundations are. The engineers behind Auto Layout at Apple started to reveal more of the internals of their technology recently, to help us understand its principles better, in order to get the best performance out of our layout code.Let’s look more closely at how the Auto Layout engine solves constraints through exploring the Cassowary algorithm, that’s running under the hood, turning constraints into linear equations, and solving them. By doing the math ourselves, we’ll have a better understanding of what layouts are easier, or more difficult to satisfy. What coding practices can help us achieve best Auto Layout performance."
 -
@@ -63,15 +63,9 @@
   service: true
 -
   id: 109
-  title: "Make UITest great again"
+  title: "Make UITest great again, using localhost"
   speakers: [7]
-  description: "When writing UI Automated Tests… Are you one of them?
-  1.  If I don’t have control over my environment dependencies, how can I test all edge cases?
-  2.  Network and Database latency slows down my tests. How can I overcome this?
-  3.  My Pull request cant pass because the api is intermittently failing
-  4.  There’s no clean way of expressing UI Tests case
-In this talk, I’ll share how my team(s) overcome the above problems with the following techniques - Localhost Response Mocking. Mock any response to test any edge case - Localhost Request Assertion. Assert outgoing requests structures and contents - Express Test cases using BDD technique (Given When Then)
-Most importantly, how to easily setup your Xcode project to achive the above." 
+  description: "'If I don't have control over my environment dependencies, how can I test all edge cases?'End to end UITests are generally difficult to cover comprehensively. Complement your existing tests with localhost UI Tests. Kenneth Poon will share why and how you should write localhost UITest with just 4 simple steps." 
 -
   id: 110
   title: "Lightning Talks"
@@ -97,7 +91,7 @@ Most importantly, how to easily setup your Xcode project to achive the above."
   service: true
 -
   id: 201
-  title: "Breakfast and a surprise gift for earlycomers."
+  title: "Breakfast and surprise gifts for early comers."
   description: ""
   service: true
 -
@@ -152,9 +146,9 @@ Most importantly, how to easily setup your Xcode project to achive the above."
   description: "Psst! We're not gonna tell you yet." 
 -
   id: 213
-  title: "He likes to keep it a surprise"
+  title: "Algebraic Data Types in Swift"
   speakers: [13]
-  description: "Ohh... moaarrr surprises. 😱" 
+  description: "Immutable models are the here, everyone understands their benefits and are actively promoting it. Swift is great for it. But are we correctly representing our data with it?  In this talk Heng Hong will walk through simple but effective steps to use algebraic data types to accurately represent data and reduce code complexity." 
 -
   id: 214
   title: "Closing Address"
