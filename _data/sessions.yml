@@ -105,9 +105,9 @@
   description: "Esteban will share how he and his team has improved the startup time for the iOS SoundCloud app. He will share the dozens of techniques they used and what worked best for them and what did not."
 -
   id: 204
-  title: "He is brewing something special"
+  title: "Swift 5’s brand new Result Type"
   speakers: [2]
-  description: "Some things are worth waiting."
+  description: "One of the first things many programmers add to their Swift projects is a Result type. Up until now it has taken different shapes. New in Swift 5, Swift will include an official Result type. In this talk we’ll look at why you want a Result type, how and when to use it, what map and flatMap bring you for Result, and why you might not need it in the future."
 -
   id: 205
   title: "Bio Break 🚻"
@@ -155,5 +155,5 @@
   service: true
 -
   id: 215
-  title: "After-party 🍺"
-  service: true
+  title: "After-party at sixty40 🍺"
+  description: "10 mins walk from Conference venue to sixty40 @Rochester Mall"

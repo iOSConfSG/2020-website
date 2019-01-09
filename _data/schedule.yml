@@ -138,17 +138,17 @@
     }
     - {
         startTime: "15:40",
-        endTime: "16:15",
+        endTime: "16:25",
         sessionIds: [212]
     }
     - {
-        startTime: "16:15",
-        endTime: "16:50",
+        startTime: "16:25",
+        endTime: "17:00",
         sessionIds: [213]
     }
     - {
-        startTime: "16:50",
-        endTime: "17:00",
+        startTime: "17:00",
+        endTime: "17:10",
         sessionIds: [214]
     }
     - {

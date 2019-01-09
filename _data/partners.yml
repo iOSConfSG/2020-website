@@ -1,6 +1,10 @@
 - 
-  group: "Gold Sponsors"
+  group: "Gold Sponsors 🏆"
   elements:
     - {name: "SeaGroup", description: "SeaGroup", link: "https://www.seagroup.com/", imageUrl: "seagroup.png"} 
     - {name: "SPGroup", description: "SPGroup", link: "https://www.spgroup.com.sg/home", imageUrl: "spgroup.png"}
     - {name: "WeWork", description: "WeWork", link: "https://www.wework.com/", imageUrl: "wework.png"}
+- 
+  group: "After-party Sponsor 🍻"
+  elements:
+    - {name: "GetLinks", description: "GetLinks", link: "https://getlinks.co/", imageUrl: "getlinks.png"} 
