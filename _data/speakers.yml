@@ -175,3 +175,14 @@ Daniel presents iPhone, Cocoa, and Swift training and consults through his compa
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/cgrail"}    
+
+- 
+  id: 17
+  name: "Priscilla"
+  surname: "Nu"
+  company: "spgroup.com.sg"
+  bio: "Priscilla is a Data-Driven Experience Designer, Design Leader and Coach. As the Head of Design in SP Group, Priscilla works with internal teams to create products that satisfy users and drive business goals. She coaches internal teams to answer two important questions – 'Why should we build this?' and 'How would this affect our users, business and the nation?' SP Design uses Lean Startup methodology to develop products in EnergyTech, guided by an overarching purpose towards sustainability."
+  thumbnailUrl: prisc.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/prisc/"}
