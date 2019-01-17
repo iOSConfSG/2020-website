@@ -18,7 +18,7 @@ From Exit D at Buona Vista Station, it is a short walk to the event venue.<br />
 
 <b>What do I get for each conference ticket?</b><br />
 Access to the two-day conference and includes breakfasts, lunches and refreshments.<br />
-We also have swag such as T-Shirt (and more), and the After Party on 20 Jan.<br />
+We also have swag such as T-Shirt (and more), and the After Party on 19 Jan (Saturday evening at 6:30 pm).<br />
 
 * Do note that you have to be of legal drinking age to attend the After Party. <br /> <br />
 * Tickets for workshop is sold separately.<br /> <br />
