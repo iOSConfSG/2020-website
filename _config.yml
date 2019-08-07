@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 include: ['_redirects']
 
 # Site Settings
-title: "iOS Conf SG 2019"
+title: "iOS Conf SG 2020"
 email: "subh@iosconf.sg"
 description: "The largest iOS developer conference in Southeast Asia."
 baseurl: ""
-url: "https://2019.iosconf.sg"
+url: "https://iosconf.sg"
 permalink: "/blog/:title"
 
 # Organizer Info
@@ -38,36 +38,37 @@ c4sponsorsUrl: "/assets/iOSConfSG-2019-Sponsor-Pack.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "2019 Speakers"}
  - {permalink: "/#sponsors", text: "Sponsors"}
  - {permalink: "/#venue", text: "Venue"}
- - {permalink: "/workshop/", text: "Workshop"}
+ - {permalink: "/", text: "Workshop"}
  - {permalink: "/team/", text: "Team"}
+
 rightNavigationButtons:
- - {link: "https://ti.to/iosconfsg/2019", text: "Buy Tickets"}
+ - {link: "https://www.papercall.io/iosconfsg2020", text: "Submit a Proposal"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "iOS Conf <typeout> 2019"
-eventDate: "17th to 19th, January, 2019"
+heroTitle: "iOS Conf <typeout> 2020"
+eventDate: "15th to 18th January, 2020"
 typeoutTextValues: '"", "SG", "Singapore"'
 typeoutFallback: "SG"
 heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "https://www.papercall.io/iosconfsg2020", text: "Submit a Proposal"}
 
 # About Block
 aboutTitle: "About iOS Conf SG"
 aboutBlock:
- - {title: "Conference", image: "conference.png", text: "18th and 19th January - 2 full days - single-track - conference featuring 20+ pure iOS and Swift programming talks." }
- - {title: "Workshops", image: "workshop.png", text: "17th January - 1 full day workshop and hands-on experience on modern application architecture and functional programming in Swift." }
+ - {title: "Conference", image: "conference.png", text: "2 full days - single-track - conference featuring 20+ pure iOS and Swift programming talks." }
+ - {title: "Workshops", image: "workshop.png", text: "2 full days workshop and hands-on experience on modern application architecture and functional programming in Swift." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "3", specialCharacter: "", info: "days", detail: "of pure iOS and Swift talks"}
- - {count: "16", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "4", specialCharacter: "", info: "days", detail: "of pure iOS and Swift talks"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from 10 countries"}
  - {count: "1", specialCharacter: "", info: "track", detail: "plus unlimited coffee"}
 
 # Latest News Block
