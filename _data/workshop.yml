@@ -1,8 +1,8 @@
 - 
-  date: "2019-01-17"
-  dateReadable: "January 17 - Workshop"
+  date: "2020-01-15"
+  dateReadable: "January 15 - Workshop on SwiftUI"
   tracks: 
-    - {title: "Workshop on 17th January", color: "#e28d35"}
+    - {title: "Workshop on 15th January", color: "#e28d35"}
   timeslots:
     - {
         startTime: "8:00",
@@ -32,7 +32,7 @@
     - {
         startTime: "13:30",
         endTime: "15:00",
-        sessionIds: [005]
+        sessionIds: [002]
     }
     - {
         startTime: "15:00",
@@ -42,5 +42,51 @@
     - {
         startTime: "15:20",
         endTime: "17:00",
+        sessionIds: [002]
+    }
+- 
+  date: "2020-01-16"
+  dateReadable: "January 16 - Workshop on Concurrency and Vapor"
+  tracks: 
+    - {title: "Workshop on 16th January", color: "#e28d35"}
+  timeslots:
+    - {
+        startTime: "8:00",
+        endTime: "9:00",
+        sessionIds: [001]
+    }
+    - {
+        startTime: "9:00",
+        endTime: "10:30",
         sessionIds: [005]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "10:45",
+        sessionIds: [003]
+    }
+    - {
+        startTime: "10:45",
+        endTime: "12:30",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "15:00",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "15:20",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "15:20",
+        endTime: "17:00",
+        sessionIds: [007]
     }

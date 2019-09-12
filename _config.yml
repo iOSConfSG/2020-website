@@ -38,15 +38,15 @@ c4sponsorsUrl: "/assets/iOSConfSG-2019-Sponsor-Pack.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/", text: "Schedule"}
- - {permalink: "/speakers/", text: "2019 Speakers"}
+ - {permalink: "/schedule", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/#sponsors", text: "Sponsors"}
  - {permalink: "/#venue", text: "Venue"}
- - {permalink: "/", text: "Workshop"}
+ - {permalink: "/workshop", text: "Workshop"}
  - {permalink: "/team/", text: "Team"}
 
 rightNavigationButtons:
- - {link: "https://www.papercall.io/iosconfsg2020", text: "Submit a Proposal"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,13 +55,13 @@ eventDate: "15th to 18th January, 2020"
 typeoutTextValues: '"", "SG", "Singapore"'
 typeoutFallback: "SG"
 heroButtons:
- - {permalink: "https://www.papercall.io/iosconfsg2020", text: "Submit a Proposal"}
+ - {link: "https://ti.to/iosconfsg/2020", text: "Buy Tickets"}
 
 # About Block
 aboutTitle: "About iOS Conf SG"
 aboutBlock:
  - {title: "Conference", image: "conference.png", text: "2 full days - single-track - conference featuring 20+ pure iOS and Swift programming talks." }
- - {title: "Workshops", image: "workshop.png", text: "2 full days workshop and hands-on experience on modern application architecture and functional programming in Swift." }
+ - {title: "Workshops", image: "workshop.png", text: "2 full days workshop and hands-on experience on SwiftUI, Concurrency and Server-Side Swift."}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -76,29 +76,29 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 6
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "Speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "READ More"
 
 # Location Block
-locationBlockTitle: "Conference Venue on 18th and 19th"
-eventLocationName: "Matrix at Biopolis"
-eventLocationLink: "http://www.jtc.gov.sg/industrial-land-and-space/pages/biopolis.aspx"
-eventStreetAddress: "30 Biopolis Street, Singapore 138671"
-eventAddressLocalityRegion: "Singapore"
-eventPostalCode: "138671"
-eventAddressCountry: "Singapore"
-eventPlaceCoordinates: "1.304120, 103.791770"
-mapCenterCoordinates: "1.304120, 103.791770"
-mapMobileCenterCoordinates: "1.304120, 103.791770"
+# locationBlockTitle: "Conference Venue on 18th and 19th"
+# eventLocationName: "Matrix at Biopolis"
+# eventLocationLink: "http://www.jtc.gov.sg/industrial-land-and-space/pages/biopolis.aspx"
+# eventStreetAddress: "30 Biopolis Street, Singapore 138671"
+# eventAddressLocalityRegion: "Singapore"
+# eventPostalCode: "138671"
+# eventAddressCountry: "Singapore"
+# eventPlaceCoordinates: "1.304120, 103.791770"
+# mapCenterCoordinates: "1.304120, 103.791770"
+# mapMobileCenterCoordinates: "1.304120, 103.791770"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueTitle: "Matrix at Biopolis"
-venueFeatures: ["30 Biopolis Street", "Singapore - 138671", "Near Buona Vista MRT"]
+# venueBlockTitle: "Venue"
+# venueBigImage: "venue_0.jpg"
+# venueSmallImage1: "venue_1.jpg"
+# venueSmallImage2: "venue_2.jpg"
+# venueTitle: "Matrix at Biopolis"
+# venueFeatures: ["30 Biopolis Street", "Singapore - 138671", "Near Buona Vista MRT"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

@@ -15,7 +15,7 @@
   id: 1
   name: "Melvin"
   surname: "Tan"
-  title: "Sponsors and Speakers Manager"
+  title: "Venue and Sponsors"
   thumbnailUrl: melvin.jpeg
   team: true
   ribbon: 
@@ -27,7 +27,7 @@
   id: 2
   name: "Kale"
   surname: "Toh"
-  title: "Website and Mobile App"
+  title: "Mobile App and Emcee"
   thumbnailUrl: kale.jpeg
   team: true
   ribbon: 
@@ -35,7 +35,7 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/kaletoh"}
 - 
-  id: 4
+  id: 3
   name: "Valentine"
   surname: "Chua"
   title: "Finance"
@@ -46,10 +46,20 @@
     - {name: "github", link: "https://github.com/valentine"}
 
 - 
+  id: 4
+  name: "Aizat"
+  surname: "Omar"
+  title: "Sponsors"
+  thumbnailUrl: aizat.jpeg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://sg.linkedin.com/in/aizatomar"}
+
+- 
   id: 5
   name: "Vina"
   surname: "Melody"
-  title: "Ticketing and Emcee"
+  title: "Ticketing and Mobile App"
   thumbnailUrl: vina.jpeg
   team: true
   social: 
@@ -60,8 +70,29 @@
   id: 6
   name: "Stefanie"
   surname: "Seah"
-  title: "Speakers and Registration"
+  title: "Sponsors"
   thumbnailUrl: stef.jpeg
   team: true
   social: 
     - {name: "twitter", link: "https://twitter.com/stefanieseah"}
+
+- 
+  id: 7
+  name: "Perwyl"
+  surname: "Liu"
+  title: "Fun and Audience Engagement"
+  thumbnailUrl: perwyl.jpeg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/perwyl"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/perwyl-liu-b1283274"}
+
+- 
+  id: 8
+  name: "Swarup"
+  surname: "Hotha"
+  title: "Mobile App"
+  thumbnailUrl: swarup.jpeg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/swarup-santhanakrishnan-42536363"}

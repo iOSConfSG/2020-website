@@ -1,8 +1,8 @@
 - 
-  date: "2019-01-18"
-  dateReadable: "January 18 - Conference, Day 1"
+  date: "2020-01-17"
+  dateReadable: "January 17 - Conference, Day 1"
   tracks: 
-    - {title: "Sessions on 18th January", color: "#e28d35"}
+    - {title: "Sessions on 17th January", color: "#e28d35"}
   timeslots:
     - {
     	startTime: "8:00",
@@ -22,7 +22,7 @@
     - {
         startTime: "10:35",
         endTime: "11:10",
-        sessionIds: [104]
+        sessionIds: [103]
     }
     - {
         startTime: "11:10",
@@ -32,12 +32,12 @@
     - {
         startTime: "11:25",
         endTime: "12:00",
-        sessionIds: [106]
+        sessionIds: [103]
     }
     - {
         startTime: "12:00",
         endTime: "12:35",
-        sessionIds: [107]
+        sessionIds: [103]
     }
     - {
         startTime: "12:35",
@@ -47,12 +47,12 @@
     - {
         startTime: "14:00",
         endTime: "14:35",
-        sessionIds: [109]
+        sessionIds: [103]
     }
     - {
         startTime: "14:35",
         endTime: "15:10",
-        sessionIds: [110]
+        sessionIds: [103]
     }
     - {
         startTime: "15:10",
@@ -62,12 +62,12 @@
     - {
         startTime: "15:40",
         endTime: "16:15",
-        sessionIds: [112]
+        sessionIds: [103]
     }
     - {
         startTime: "16:15",
         endTime: "16:50",
-        sessionIds: [113]
+        sessionIds: [103]
     }
     - {
         startTime: "16:50",
@@ -76,10 +76,10 @@
     }
 
 - 
-  date: "2019-01-19"
-  dateReadable: "January 19 - Conference, Day 2"
+  date: "2020-01-18"
+  dateReadable: "January 18 - Conference, Day 2"
   tracks: 
-    - {title: "Sessions on 19th January", color: "#e28d35"}
+    - {title: "Sessions on 18th January", color: "#e28d35"}
   timeslots:
     - {
         startTime: "8:30",
@@ -94,12 +94,12 @@
     - {
         startTime: "10:00",
         endTime: "10:35",
-        sessionIds: [203]
+        sessionIds: [103]
     }
     - {
         startTime: "10:35",
         endTime: "11:10",
-        sessionIds: [204]
+        sessionIds: [103]
     }
     - {
         startTime: "11:10",
@@ -109,12 +109,12 @@
     - {
         startTime: "11:25",
         endTime: "12:00",
-        sessionIds: [206]
+        sessionIds: [103]
     }
     - {
         startTime: "12:00",
         endTime: "12:35",
-        sessionIds: [207]
+        sessionIds: [103]
     }
     - {
         startTime: "12:35",
@@ -124,12 +124,12 @@
     - {
         startTime: "14:00",
         endTime: "14:35",
-        sessionIds: [209]
+        sessionIds: [103]
     }
     - {
         startTime: "14:35",
         endTime: "15:10",
-        sessionIds: [210]
+        sessionIds: [103]
     }
     - {
         startTime: "15:10",
@@ -139,12 +139,12 @@
     - {
         startTime: "15:40",
         endTime: "16:25",
-        sessionIds: [212]
+        sessionIds: [103]
     }
     - {
         startTime: "16:25",
         endTime: "17:00",
-        sessionIds: [213]
+        sessionIds: [103]
     }
     - {
         startTime: "17:00",
