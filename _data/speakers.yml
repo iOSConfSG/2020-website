@@ -27,9 +27,9 @@
   company: "raywenderlich.com"
   bio: "Scott has been an iOS developer since the first public release of the SDK from Apple. His day job is working as a Solutions Architect for a Fortune 500 company in the Pacific Northwest but he does contract work for a couple clients via his one-man shop, Gargoyle Software, LLC."
   thumbnailUrl: scott.jpg
-  rockstar: true
+  rockstar: false
   social: 
-    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/scott-grosch-0a652197"}
 
 - 
   id: 4
@@ -47,8 +47,8 @@
   name: "Tim"
   surname: "Condon"
   company: "raywenderlich.com"
-  bio: "Tim is a Software Engineer at the BBC and founder of Broken Hands, a technology company specialising in Vapor. As well as writing a number of popular frameworks and libraries for Vapor he is the author of Server-Side Swift with Vapor and a Ray Wenderlich instructor."
+  bio: "Tim is a Swift developer from Manchester, UK. He's the server-side Swift team lead at raywenderlich.com and has written the unofficial-official book on Vapor with the founders of the framework. He founded Broken Hands a few years ago delivers talks and workshops on Vapor and server-side Swift around the world. He also co-organises the ServerSide.swift conference - the world’s first and only conference focused on server-side Swift."
   thumbnailUrl: tim.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/0xTim"}
