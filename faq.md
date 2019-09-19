@@ -36,7 +36,7 @@ Sorry, we do not sell one-day tickets because of logistical challenges. <br /> <
 We're giving the bundle ticket with a huge discount. So you might consider it to get the best out of the conference.
 
 <b>I am a student and want to attend the conference but I cannot afford to buy a ticket. Are there any tickets for students?</b><br />
-This year we don't have any special student discount. However, if you have attended iOS Conf SG twice before then, you're qualified to get a discount of 20% that Subh announced earlier this year. Please contact us and we'll share more details.<br /> <br />
+This year we don't have any special student discount. However, we have a group discount when 3 or more tickets are purchased together. Kindly contact us to know more.<br /> <br />
 
 <b>What is the cancellation and refund policy?</b><br />
 We do not allow cancellation of tickets for iOS Conf SG. However, you can transfer your ticket to someone else if you are not able to attend the conference. Kindly contact the organizers who can help you with this. <br /> <br />
