@@ -33,7 +33,7 @@ We need to book the venue and arrange logistics for workshops separately.<br/><b
 
 <b>Can I buy one day ticket for the workshop (i.e. for 15th Jan or 16th Jan only)?</b><br />
 Sorry, we do not sell one-day tickets because of logistical challenges. <br /> <br />
-We're giving the bundle ticket with a huge discount. So you might consider it to get the best out of the conference.
+We're giving the bundle ticket with a huge discount. So you might consider it to get the best out of the conference.<br/><br/>
 
 <b>I am a student and want to attend the conference but I cannot afford to buy a ticket. Are there any tickets for students?</b><br />
 This year we don't have any special student discount. However, we have a group discount when 3 or more tickets are purchased together. Kindly contact us to know more.<br /> <br />
