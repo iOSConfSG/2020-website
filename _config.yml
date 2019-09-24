@@ -81,24 +81,24 @@ rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "READ More"
 
 # Location Block
-# locationBlockTitle: "Conference Venue on 18th and 19th"
-# eventLocationName: "Matrix at Biopolis"
-# eventLocationLink: "http://www.jtc.gov.sg/industrial-land-and-space/pages/biopolis.aspx"
-# eventStreetAddress: "30 Biopolis Street, Singapore 138671"
-# eventAddressLocalityRegion: "Singapore"
-# eventPostalCode: "138671"
-# eventAddressCountry: "Singapore"
-# eventPlaceCoordinates: "1.304120, 103.791770"
-# mapCenterCoordinates: "1.304120, 103.791770"
-# mapMobileCenterCoordinates: "1.304120, 103.791770"
+locationBlockTitle: "Workshops and Conference"
+eventLocationName: "Shaw Foundation Alumni House"
+eventLocationLink: "https://goo.gl/maps/Bw9oiRRdwoZLG5FC8"
+eventStreetAddress: "11 Kent Ridge Drive Singapore 119244"
+eventAddressLocalityRegion: "Singapore"
+eventPostalCode: "119244"
+eventAddressCountry: "Singapore"
+eventPlaceCoordinates: "1.293221, 103.773612"
+mapCenterCoordinates: "1.293221, 103.773612"
+mapMobileCenterCoordinates: "1.293221, 103.773612"
 
 # Venue Block
-# venueBlockTitle: "Venue"
-# venueBigImage: "venue_0.jpg"
-# venueSmallImage1: "venue_1.jpg"
-# venueSmallImage2: "venue_2.jpg"
-# venueTitle: "Matrix at Biopolis"
-# venueFeatures: ["30 Biopolis Street", "Singapore - 138671", "Near Buona Vista MRT"]
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueTitle: "Shaw Foundation Alumni House"
+venueFeatures: ["11 Kent Ridge Drive", "Singapore - 119244", "In National University of Singapore"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
