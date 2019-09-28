@@ -88,9 +88,9 @@ eventStreetAddress: "11 Kent Ridge Drive Singapore 119244"
 eventAddressLocalityRegion: "Singapore"
 eventPostalCode: "119244"
 eventAddressCountry: "Singapore"
-eventPlaceCoordinates: "1.293221, 103.773612"
-mapCenterCoordinates: "1.293221, 103.773612"
-mapMobileCenterCoordinates: "1.293221, 103.773612"
+# eventPlaceCoordinates: "1.293221, 103.773612"
+# mapCenterCoordinates: "1.293221, 103.773612"
+# mapMobileCenterCoordinates: "1.293221, 103.773612"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -101,9 +101,9 @@ venueTitle: "Shaw Foundation Alumni House"
 venueFeatures: ["11 Kent Ridge Drive", "Singapore - 119244", "In National University of Singapore"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "iOSConfSG"
+# tweetsFeedImage: "twitter-feed.jpg"
+# tweetsFeedTitle: "What's Up?"
+# twitterHashTag: "iOSConfSG"
 
 # Partners Block
 organizersTitle: "Sponsors"
