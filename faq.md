@@ -15,7 +15,7 @@ We try not to keep too many beginner talks and emphasize more on knowledge shari
 <br /> <br />
 
 <b>What's the best way to reach to the conference venue?</b><br />
-Venue will be announced closer to the conference.<br /> <br />
+iOS Conf SG - 2020 will be at <a href="https://goo.gl/maps/Bw9oiRRdwoZLG5FC8" target="blank">Shaw Foundation Alumni House</a><br /> <br />
 
 <b>What do I get for each conference ticket?</b><br />
 Access to the two-day conference and includes breakfasts, lunches and refreshments.<br />
