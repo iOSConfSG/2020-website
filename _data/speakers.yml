@@ -52,3 +52,25 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/0xTim"}
+
+- 
+  id: 6
+  name: "Ellen"
+  surname: "Shapiro"
+  company: "apollographql.com"
+  bio: "Ellen Shapiro is a mobile engineer for Apollo GraphQL who has been building native apps for both iOS and Android since 2010. She's written tutorials for RayWenderlich.com about iOS and Android since 2013, and is now one of the authors of their Kotlin Apprentice book. When not coding or talking incessantly about coding, Ellen spends her time traveling, biking, playing sous-chef to her fiancée Lilia, and relentlessly instagramming their cat."
+  thumbnailUrl: ellen.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/designatednerd"}        
+
+- 
+  id: 7
+  name: "Tamar"
+  surname: "Nachmany"
+  company: "glossier.com"
+  bio: "Tamar Nachmany is a senior engineer at Glossier, where she has worked in iOS and across the tech stack, and previously worked on the iOS teams at Tumblr and The New York Times. When she's not writing software she writes fiction. She is very excited to be in Singapore for the first time."
+  thumbnailUrl: tamar.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/tamarshmallows"}
