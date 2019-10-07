@@ -2,4 +2,6 @@
   group: "Gold Sponsors 🏆"
   elements:
     - {name: "SP Digital", description: "SP Digital", link: "https://www.spdigital.io", imageUrl: "spdigital.svg"}
+    - {name: "SeaGroup", description: "SeaGroup", link: "https://www.seagroup.com/", imageUrl: "seagroup.png"}
+
 
