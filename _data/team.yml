@@ -96,3 +96,13 @@
   team: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/swarup-santhanakrishnan-42536363"}
+
+- 
+  id: 9
+  name: "Min Li"
+  surname: "Lim"
+  title: "Swag and T-shirt Design"
+  thumbnailUrl: min.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mllim"}
