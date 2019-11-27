@@ -22,14 +22,14 @@
 
 - 
   id: 3
-  name: "Scott"
-  surname: "Grosch"
-  company: "raywenderlich.com"
-  bio: "Scott has been an iOS developer since the first public release of the SDK from Apple. His day job is working as a Solutions Architect for a Fortune 500 company in the Pacific Northwest but he does contract work for a couple clients via his one-man shop, Gargoyle Software, LLC."
-  thumbnailUrl: scott.jpg
-  rockstar: false
+  name: "Paul"
+  surname: "Hudson"
+  company: "hackingwithswift.com"
+  bio: "Paul is the author of Hacking with Swift, Pro Swift, Swift Design Patterns, Server-Side Swift, Hacking with macOS, Hacking with watchOS, Hacking with tvOS, Swift Coding Challenges, and more. Suffice it to say, he quite likes Swift. And coffee. (But mostly Swift.) (And coffee.)"
+  thumbnailUrl: paul.jpg
+  rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/scott-grosch-0a652197"}
+    - {name: "twitter", link: "https://twitter.com/twostraws"}
 
 - 
   id: 4
@@ -44,17 +44,6 @@
 
 - 
   id: 5
-  name: "Tim"
-  surname: "Condon"
-  company: "raywenderlich.com"
-  bio: "Tim is a Swift developer from Manchester, UK. He's the server-side Swift team lead at raywenderlich.com and has written the unofficial-official book on Vapor with the founders of the framework. He founded Broken Hands a few years ago delivers talks and workshops on Vapor and server-side Swift around the world. He also co-organises the ServerSide.swift conference - the world’s first and only conference focused on server-side Swift."
-  thumbnailUrl: tim.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/0xTim"}
-
-- 
-  id: 6
   name: "Ellen"
   surname: "Shapiro"
   company: "apollographql.com"
@@ -62,8 +51,19 @@
   thumbnailUrl: ellen.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/designatednerd"}        
+    - {name: "twitter", link: "https://twitter.com/designatednerd"} 
 
+- 
+  id: 6
+  name: "Tim"
+  surname: "Condon"
+  company: "raywenderlich.com"
+  bio: "Tim is a Swift developer from Manchester, UK. He's the server-side Swift team lead at raywenderlich.com and has written the unofficial-official book on Vapor with the founders of the framework. He founded Broken Hands a few years ago delivers talks and workshops on Vapor and server-side Swift around the world. He also co-organises the ServerSide.swift conference - the world’s first and only conference focused on server-side Swift."
+  thumbnailUrl: tim.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/0xTim"}
+       
 - 
   id: 7
   name: "Tamar"
@@ -74,3 +74,102 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/tamarshmallows"}
+
+- 
+  id: 8
+  name: "Scott"
+  surname: "Grosch"
+  company: "raywenderlich.com"
+  bio: "Scott has been an iOS developer since the first public release of the SDK from Apple. His day job is working as a Solutions Architect for a Fortune 500 company in the Pacific Northwest but he does contract work for a couple clients via his one-man shop, Gargoyle Software, LLC."
+  thumbnailUrl: scott.jpg
+  rockstar: false
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/scott-grosch-0a652197"}    
+
+- 
+  id: 9
+  name: "Sven"
+  surname: "Schleier"
+  company: "sc.com"
+  bio: "Sven is the Principal Cyber Security Consultant at Standard Chartered Bank. He was one of the core project leaders and authors of the OWASP Mobile Security Testing Guide and OWASP Mobile Application Security Verification Standard and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile and Web Application Security worldwide to different audiences, ranging from developers to students and penetration testers."
+  thumbnailUrl: sven.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/bsd_daemon"}
+
+- 
+  id: 10
+  name: "Douglas"
+  surname: "Hill"
+  company: "pspdfkit.com"
+  bio: "Douglas is an iOS engineer at PSPDFKit and the lead on their PDF Viewer iOS and Mac app. He helps organise the NSLondon meetup and enjoys travelling while working remotely."
+  thumbnailUrl: douglas.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/qdoug"}
+
+- 
+  id: 11
+  name: "Luis"
+  surname: "Ascorbe"
+  company: "Indie Developer"
+  bio: "Luis is an independent iOS developer. Previously he worked at wallapop. He is the co-founder and organizer of NSSpain."
+  thumbnailUrl: luis.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Lascorbe"}
+
+- 
+  id: 12
+  name: "Vojta"
+  surname: "Stavik"
+  company: "industrial-binaries.co"
+  bio: "Vojta is the lead iOS engineer and founder of Industrial Binaries. He spends most of his day giving second chances to legacy codebases no one wants to touch. He started the Prague branch of CocoaHeads, and writes articles about Swift and iOS development at VojtaStavik.com."
+  thumbnailUrl: vojta.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/VojtaStavik"}
+
+- 
+  id: 13
+  name: "Andrey"
+  surname: "Volodin"
+  company: "prisma-ai.com"
+  bio: "Cocos2D-ObjC lead developer, creator of world’s first pure Swift Android game engine, leading developments of two apps full of AI and CV with over 100M downloads at Prisma AI."
+  thumbnailUrl: andrey.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/s1ddok"}
+
+- 
+  id: 14
+  name: "Omer"
+  surname: "Iqbal"
+  company: "seagroup.com"
+  bio: "Omer is an iOS Engineer at Sea with a passion for using lldb to dig into private frameworks, and proselytising functional programming. These days he’s been writing some media code and has developed a paranoia for data races."
+  thumbnailUrl: omer.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/olenhad"}
+
+- 
+  id: 15
+  name: "Matt"
+  surname: "Delves"
+  company: "mattdelves.com"
+  bio: "Matt is a macOS and iOS developer based in Melbourne Australia. He has a propensity towards creating apps that are magical and delightful to use. His experiences ranges from backend to front end and feels that such breadth grants the ability to understand the intricacies involved in creating apps."
+  thumbnailUrl: matt.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mattdelves"}
+
+- 
+  id: 16
+  name: "Vincent"
+  surname: "Pradeilles"
+  company: "worldline.com"
+  bio: "Vincent is a french iOS software engineer. He works for Worldline, in Lyon."
+  thumbnailUrl: vincent.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/v_pradeilles"}                   

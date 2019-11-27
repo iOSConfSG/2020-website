@@ -18,7 +18,7 @@
 -
   id: 005
   title: "Concurrency in Swift"
-  speakers: [3]
+  speakers: [8]
   description: "Multithreading in Swift with GCD and Operations"
 -
   id: 006
@@ -27,7 +27,7 @@
 -
   id: 007
   title: "Server-side Swift with Vapor"
-  speakers: [5]
+  speakers: [6]
   description: "Server-side Swift with Vapor"
 
 -
