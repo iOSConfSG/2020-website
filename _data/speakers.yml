@@ -90,8 +90,8 @@
   id: 9
   name: "Sven"
   surname: "Schleier"
-  company: "sc.com"
-  bio: "Sven is the Principal Cyber Security Consultant at Standard Chartered Bank. He was one of the core project leaders and authors of the OWASP Mobile Security Testing Guide and OWASP Mobile Application Security Verification Standard and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile and Web Application Security worldwide to different audiences, ranging from developers to students and penetration testers."
+  company: "owasp.org"
+  bio: "Sven is one of the core project leaders and authors of the OWASP Mobile Security Testing Guide and OWASP Mobile Application Security Verification Standard and has created the OWASP Mobile Hacking Playground. Sven is giving talks and workshops about Mobile and Web Application Security worldwide to different audiences, ranging from developers to students and penetration testers."
   thumbnailUrl: sven.jpeg
   rockstar: false
   social: 
