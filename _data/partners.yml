@@ -3,6 +3,7 @@
   elements:
     - {name: "Cookpad", description: "Cookpad", link: "https://apply.workable.com/cookpad", imageUrl: "cookpad.png"}
     - {name: "Bitrise", description: "Bitrise", link: "https://www.bitrise.io/", imageUrl: "bitrise.png"}
+    - {name: "Guardsquare", description: "Guardsquare", link: "https://www.guardsquare.com/en", imageUrl: "guardsquare.jpg"}    
     - {name: "SeaGroup", description: "SeaGroup", link: "https://www.seagroup.com/", imageUrl: "seagroup.png"}
     - {name: "Traveloka", description: "Traveloka", link: "https://www.traveloka.com/en-id/about-us", imageUrl: "traveloka.png"}
     - {name: "SP Digital", description: "SP Digital", link: "https://www.spdigital.io", imageUrl: "spdigital.svg"}
