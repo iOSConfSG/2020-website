@@ -1,3 +1,6 @@
+- group: "After-Party 🍻"
+  elements:
+    - {name: "Auth0", description: "Auth0", link: "https://auth0.com", imageUrl: "auth0.png"}
 - 
   group: "Gold Sponsors 🏆"
   elements:
