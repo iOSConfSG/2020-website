@@ -168,7 +168,7 @@
   name: "Vincent"
   surname: "Pradeilles"
   company: "worldline.com"
-  bio: "Vincent is a french iOS software engineer. He works for Worldline, in Lyon."
+  bio: "Vincent started working on iOS apps back in 2011. For the last years, he's been working at Worldline, where he contributes to building great apps for major French banks. He loves Swift and enjoys sharing about it on the Internet. Most notably, he built the framework KeyPathKit that implements a SQL-like syntax for data manipulation. He's also the one behind the Twitter account @ios_memes."
   thumbnailUrl: vincent.jpg
   rockstar: false
   social: 
