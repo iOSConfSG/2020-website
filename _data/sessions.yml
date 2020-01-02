@@ -28,7 +28,7 @@
   id: 007
   title: "Server-side Swift with Vapor"
   speakers: [6]
-  description: "Server-side Swift with Vapor"
+  description: "In this workshop you’ll learn how to get started with Vapor, the server-side Swift framework. This workshop will teach you everything you need to know to go from nothing to building a full REST API and website. You’ll learn how to interact with databases, set up authentication and build powerful APIs."
 
 -
   id: 101
@@ -40,50 +40,162 @@
   service: true
 -
   id: 103
-  title: "To be announced"  
-  description: "Topic to be announced"
+  title: "Designing Your App to be Discoverable"
+  speakers: [1]
+  description: "Small screens make discoverability in your app hard. Even though iOS is now more than ten years old, designing your app to be discoverable is as hard as it ever was. Learn some modern techniques for how to make sure your users *find* the features you spent so many hours implementing."
+-
+  id: 104
+  title: "Global Variable Oriented Programming"
+  speakers: [3]
+  description: "To be added"
 -
   id: 105
-  title: "Bio Break 🚻"
+  title: "Break 🚻"
   service: true
 -
+  id: 106
+  title: "Building Secure iOS Apps (you don’t have to learn it the hard way!)"
+  speakers: [9]
+  description: "As an iOS developer you might ask yourself, what are the attacks I should be concerned about, e.g. is it possible to bypass Touch ID? In this talk Sven will make a deep dive into security on iOS Apps, and then head off into some nice mobile hacking demos. Learn what is needed to secure your iOS app?"
+-
+  id: 107
+  title: "Full Keyboard Control in UIKit Apps"
+  speakers: [10]
+  description: "The best apps go beyond keyboard shortcuts by supporting full keyboard control. This talk will explore how to do that in your UIKit app, whether it runs on an iPad or uses Catalyst to run on a Mac."
+-
   id: 108
+  title: "Setting up iOS CI with Bitrise ⚡️"  
+  description: "Continuous Integration for iOS with Bitrise"
+-
+  id: 109
+  title: "Group Photo 📸"
+  service: true
+-
+  id: 110
   title: "Lunch Break 🍽"
   service: true
 -
   id: 111
-  title: "Time for some Coffee ☕️"
-  service: true
+  title: "Swift Quiz by Paul Hudson"
+  speakers: [3]
+  description: "There are some cool prizes that you can win."
+-
+  id: 112
+  title: "When and Why to use GraphQL ⚡️"
+  speakers: [17]
+  description: "When and Why to use GraphQL"
+-
+  id: 113
+  title: "Move your bash scripts to Swift Library"
+  speakers: [5]
+  description: "TBD"  
 -
   id: 114
+  title: "Bring me to life; A tale of dyld, and how iOS launches your app"
+  speakers: [14]
+  description: "What exactly happens before the OS calls your 'main' function? How does iOS know which libraries to load before then? And how can you optimise your startup time? This talk will take a deep look at the launch process, and how iOS’s dynamic linker (lovingly called dyld) resolves library dependencies and loads them in memory."
+-
+  id: 115
+  title: "Coffee ☕️"
+  service: true
+-
+  id: 116
+  title: "Sign in with Apple using SwiftUI"
+  speakers: [8]
+  description: "Learn how to implement Sign in with Apple using SwiftUI, to give users more privacy and control in your iOS apps." 
+-
+  id: 117
+  title: "SwiftUI and SVG"
+  speakers: [15]
+  description: "So you want to draw an image? Typically this requires a designer or illustrator to create one and then export it in three different resolutions. When there were only a few different iOS devices to consider, this had a low cost. By using SVG and SwiftUI, we have a great way of handling images in your apps."
+-
+  id: 118
   title: "Closing Address 🎤"
   service: true
 -
   id: 201
-  title: "Breakfast + Networking 🥞"
-  description: ""
+  title: "Breakfast + Networking"
   service: true
 -
   id: 202
   title: "Opening Address"
   service: true
 -
+  id: 203
+  title: "@deprecated Monolith @available Modules"
+  speakers: [11]
+  description: "At his previous company Wallapop, Luis and his team have been fight with modules for over 2 years. While they were looking for the best solution to split the app, they've a hit a serious compiler bug several times which didn't let us build the app. In this talk he'd like to tell the story how they were changing the project over time to make it scalable. What worked, and what didn't, where they failed, and what't the current state is."
+-
+  id: 204
+  title: "Building a considerate app"
+  speakers: [4]
+  description: "Which would be all about effectively using dynamic type along with localisation and voice over. Basically it’s a case study type thing based on my experience localising App Store Connect for iOS. I’d like to encourage developers to consider changing view layouts not *just* when dynamic type size changes to an accessibility size, but when there’s too much content (e.g. when showing German localisations). And also to consider the formatting of content for Voice Over at the same time, because all of these things work together to yield what I call a considerate application."
+-
   id: 205
-  title: "Bio Break 🚻"
+  title: "Break 🚻"
   service: true
 -
+  id: 206
+  title: "Community Engineering"
+  speakers: [7]
+  description: "When Tamar worked at Tumblr, she was always struck by the stories of Tumblr users falling in love. Tumblr is an interest-based social network, and most people on it begin as strangers. Building technology that allows people - strangers - to connect so deeply is a privilege. Apps are the infrastructure for many of our communities. And despite many people understandably losing faith in social media companies and their ability to handle their immense responsibility, new social networks are still being built and are growing in surprising ways. And they continue to deliver on something incredibly important to users - community. In this talk, she'll be sharing some of the lessons she has learned building social media iOS apps. She’ll focus on how engineers can build strong engineering foundations for new social networks and choose the right tools, discuss foundational product principles that help encourage users to share, create, and participate, and shout out some of my favorite unlikely social networks and what they can teach us about building inspiring iOS apps."
+-
+  id: 207
+  title: "Testing SwiftUI and Combine: The State of the Art"
+  speakers: [12]
+  description: "In this talk, Vojta will cover how to test SwiftUI and Combine. He will discuss the general approach to testing reactive code and share real-world examples of Combine tests. He wil demonstrate testing approaches which worked for UIKit and can’t be used in SwiftUI."
+-
   id: 208
+  title: "Code hardening and runtime self-protection using Guardsquare ⚡️"  
+  description: "Provide cutting-edge protection for your iOS apps and SDKs"
+-
+  id: 209
+  title: "Group Photo 📸"
+  service: true
+-
+  id: 210
   title: "Lunch Break 🍽"
   service: true
 -
   id: 211
-  title: "Time for some Coffee ☕️"
-  service: true 
+  title: "Singapore Trivia and Facts 🇸🇬"
+  speakers: []
+  description: "There are some cool prizes that you can win."
+-
+  id: 212
+  title: "Lightning talk ⚡️"
+  speakers: []
+  description: "To be announced"
+-
+  id: 213
+  title: "Elevating your design with SwiftUI"
+  speakers: [2]
+  description: "Make less design mistakes by following the standards set by SwiftUI. Learn how it provides great practices for colors, padding, adaptive layout, alignment guides, dynamic types and more."  
 -
   id: 214
-  title: "Closing Address 🎤"
-  service: true
+  title: "Explain me Metal like I'm 5"
+  speakers: [13]
+  description: "This talk is dedicated for the audience that has minimal or no experience with GPU programming on iOS or elsewhere. We will go through on how GPU works and what specific distinction Metal has. Andrey will show how to write modern Metal pipeline that works just blazingly fast and can be easily understood."
 -
   id: 215
-  title: "After-party 🍺"
-  description: "Venue TBD"
+  title: "Coffee ☕️"
+  service: true
+-
+  id: 216
+  title: "Property Wrappers or How Swift decided to become Java"
+  speakers: [16]
+  description: "Swift 5.1 brought a new construct to the language: Property Wrappers. With them, any codebase is now free to define custom property attributes that will suit its own needs. In this talk, Vincent will discuss how they we can be efficiently leveraged, while avoiding pitfalls."
+-
+  id: 217
+  title: "Full stack development with Swift and Vapor"
+  speakers: [6]
+  description: "In this talk you’ll learn why Swift can be considered as a real contender for developing on the server. We’ll discuss the benefits of Vapor 4 and server-side Swift. In a live demo we’ll build an application to show how easy it is to use Vapor. Finally in the demo, you’ll see how to share code between iOS and your Vapor application"
+-
+  id: 218
+  title: "Closing Address 🎤"
+  service: true
+
+-
+  id: 219
+  title: "After party at Brewerkz, Riverside Point 🍻"
+  description: "Address: Brewerkz, 30, Merchant Rd, #01-07 Riverside Point, 058282. One way transfer to after party venue will be provided."  

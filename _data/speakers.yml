@@ -113,7 +113,7 @@
   name: "Luis"
   surname: "Ascorbe"
   company: "Indie Developer"
-  bio: "Luis is an independent iOS developer. Previously he worked at wallapop. He is the co-founder and organizer of NSSpain."
+  bio: "Luis is an independent software developer that started with iOS in 2011. Previously he was the iOS Lead at Wallapop. He’s the co-founder and organizer of NSSpain. Luis loves traveling and exploring the world, first time in Singapore!"
   thumbnailUrl: luis.png
   rockstar: false
   social: 
@@ -172,4 +172,15 @@
   thumbnailUrl: vincent.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "https://twitter.com/v_pradeilles"}                   
+    - {name: "twitter", link: "https://twitter.com/v_pradeilles"}
+
+- 
+  id: 17
+  name: "Choon Keat"
+  surname: "Chew"
+  company: "spdigital.io"
+  bio: "Choon Keat is a Principal Software Engineer at SPdigital. He started the Singapore Ruby Brigade, worked at Slideshare, believes strongly in and contributes to open source."
+  thumbnailUrl: choonkeat.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/choonkeat"}                       
