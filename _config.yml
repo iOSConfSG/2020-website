@@ -60,7 +60,7 @@ heroButtons:
 # About Block
 aboutTitle: "About iOS Conf SG"
 aboutBlock:
- - {title: "Conference", image: "conference.png", text: "2 full days - single-track - conference featuring 16 pure iOS and Swift programming talks."}
+ - {title: "Conference", image: "conference.png", text: "2 full days - single-track - conference featuring 20 pure iOS and Swift programming talks."}
  - {title: "Workshops", image: "workshop.png", text: "2 full days workshop and hands-on experience on SwiftUI, Concurrency and Server-Side Swift."}
 
 # Statistic Block
