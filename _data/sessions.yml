@@ -81,9 +81,9 @@
   description: "There are some cool prizes that you can win."
 -
   id: 112
-  title: "When and Why to use GraphQL ⚡️"
+  title: "GraphQL for people who don’t need it ⚡️"
   speakers: [17]
-  description: "When and Why to use GraphQL"
+  description: "If you don’t need it, don’t use it, don’t have time for it: this lightning talk is for you."
 -
   id: 113
   title: "Move your bash scripts to Swift Library"
@@ -129,7 +129,7 @@
   id: 204
   title: "Building a considerate app"
   speakers: [4]
-  description: "Which would be all about effectively using dynamic type along with localisation and voice over. Basically it’s a case study type thing based on my experience localising App Store Connect for iOS. I’d like to encourage developers to consider changing view layouts not *just* when dynamic type size changes to an accessibility size, but when there’s too much content (e.g. when showing German localisations). And also to consider the formatting of content for Voice Over at the same time, because all of these things work together to yield what I call a considerate application."
+  description: "We're all working hard to add the latest platform features to our applications, whether that's machine learning, augmented reality, or declarative user interfaces, but we really want our apps to be a success, we must understand our users and accommodate their needs. Let's take a look at how you can use Voice Over, Localisation, and Dynamic Type to make an app that adapts better to the needs of your users."
 -
   id: 205
   title: "Break 🚻"
