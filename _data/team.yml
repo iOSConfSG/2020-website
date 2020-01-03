@@ -99,9 +99,19 @@
 
 - 
   id: 9
+  name: "Bunty"
+  surname: "Madan"
+  title: "Registration"
+  thumbnailUrl: bunty.jpg
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/buntylm"}
+
+- 
+  id: 10
   name: "Min Li"
   surname: "Lim"
-  title: "Swag and T-shirt Design"
+  title: "Design"
   thumbnailUrl: min.jpg
   team: true
   social: 
