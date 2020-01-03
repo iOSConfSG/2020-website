@@ -86,9 +86,9 @@
   description: "If you don’t need it, don’t use it, don’t have time for it: this lightning talk is for you."
 -
   id: 113
-  title: "Move your bash scripts to Swift Library"
+  title: "Scripting in Swift For a Testable Build "
   speakers: [5]
-  description: "TBD"  
+  description: "Underlying many large iOS projects is a tangled nest of bash scripts that developers are often afraid to touch for fear of breaking something, and which is littered with print statements from generations of developers trying to figure out how on earth it works. How can we move away from this mess and to something more sustainable? Ellen will discuss moving a codebase like this to a command line tool that can be called from a Swift script, and which can be tested and breakpointed, and just might save a tiny bit of your sanity."  
 -
   id: 114
   title: "Bring me to life; A tale of dyld, and how iOS launches your app"
@@ -146,8 +146,8 @@
   description: "In this talk, Vojta will cover how to test SwiftUI and Combine. He will discuss the general approach to testing reactive code and share real-world examples of Combine tests. He wil demonstrate testing approaches which worked for UIKit and can’t be used in SwiftUI."
 -
   id: 208
-  title: "Code hardening and runtime self-protection using Guardsquare ⚡️"  
-  description: "Provide cutting-edge protection for your iOS apps and SDKs"
+  title: "Protecting in-app purchases from piracy through tweaks ⚡️"  
+  description: "Piracy is a major problem for iOS app developers as it directly impacts revenue. At the same time, it is incredibly easy for users to gain access to paid content for free. All they need to do is download and install freely available tweaks. In this talk, Damian will explain what you can do to protect your premium in-app content and functionality."
 -
   id: 209
   title: "Group Photo 📸"
