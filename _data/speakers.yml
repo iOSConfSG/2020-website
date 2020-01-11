@@ -183,4 +183,37 @@
   thumbnailUrl: choonkeat.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "https://twitter.com/choonkeat"}                       
+    - {name: "twitter", link: "https://twitter.com/choonkeat"}
+
+- 
+  id: 18
+  name: "Ritesh"
+  surname: "Gupta"
+  company: "fueled.com"
+  bio: "Ritesh is a Mobile Engineering Manager at Fueled, working remotely from somewhere in India (currently Bangalore). He has been developing iOS applications since 2013 and occasionally delves into Kotlin. He enjoys reactive programming and also writes about it on his personal blog riteshhh.com. He also had the honor of writing one complete issue (295th) of iOS dev weekly & has given multiple talks in various meetups/conferences. When he is not coding, you can find him exploring street food or food markets."
+  thumbnailUrl: ritesh.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/_riteshhh"}
+
+- 
+  id: 19
+  name: "Damian"
+  surname: "Malarczyk"
+  company: "guardsquare.com"
+  bio: "Damian started his career as an iOS developer working on various media and entertainment applications. After moving to Belgium, he joined Guardsquare as an R&D engineer. He works on iXGuard, Guardsquare’s mobile security solution for iOS applications."
+  thumbnailUrl: damian.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/_dmcyk"}
+
+- 
+  id: 20
+  name: "Anna"
+  surname: "Alexi"
+  company: "bitrise.io"
+  bio: "Growth Manager at Bitrise"
+  thumbnailUrl: anna.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/bitrise"}

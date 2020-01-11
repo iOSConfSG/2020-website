@@ -64,7 +64,8 @@
   description: "The best apps go beyond keyboard shortcuts by supporting full keyboard control. This talk will explore how to do that in your UIKit app, whether it runs on an iPad or uses Catalyst to run on a Mac."
 -
   id: 108
-  title: "Setting up iOS CI with Bitrise ⚡️"  
+  title: "Setting up iOS CI with Bitrise ⚡️"
+  speakers: [20]
   description: "Continuous Integration for iOS with Bitrise"
 -
   id: 109
@@ -146,7 +147,8 @@
   description: "In this talk, Vojta will cover how to test SwiftUI and Combine. He will discuss the general approach to testing reactive code and share real-world examples of Combine tests. He wil demonstrate testing approaches which worked for UIKit and can’t be used in SwiftUI."
 -
   id: 208
-  title: "Protecting in-app purchases from piracy through tweaks ⚡️"  
+  title: "Protecting in-app purchases from piracy through tweaks ⚡️"
+  speakers: [19]
   description: "Piracy is a major problem for iOS app developers as it directly impacts revenue. At the same time, it is incredibly easy for users to gain access to paid content for free. All they need to do is download and install freely available tweaks. In this talk, Damian will explain what you can do to protect your premium in-app content and functionality."
 -
   id: 209
@@ -163,9 +165,9 @@
   description: "There are some cool prizes that you can win."
 -
   id: 212
-  title: "Lightning talk ⚡️"
-  speakers: []
-  description: "To be announced"
+  title: "Declarative Networking with Combine ⚡️"
+  speakers: [18]
+  description: "Combine is a new reactive framework by Apple which provides a declarative Swift API for handling asynchronous tasks. This talk will explore how we can form a declarative networking layer using Combine. We will take advantage of the existing combine operators like DataTaskPublisher, Just, Fail, Catch, etc to define (i.e. validate and parse) success and error streams declaratively."
 -
   id: 213
   title: "Elevating your design with SwiftUI"
