@@ -27,7 +27,7 @@
   id: 2
   name: "Kale"
   surname: "Toh"
-  title: "Mobile App and Emcee"
+  title: "Logistics"
   thumbnailUrl: kale.jpeg
   team: true
   ribbon: 
@@ -49,7 +49,7 @@
   id: 4
   name: "Aizat"
   surname: "Omar"
-  title: "Sponsors"
+  title: "Logistics"
   thumbnailUrl: aizat.jpeg
   team: true
   social: 
@@ -80,7 +80,7 @@
   id: 7
   name: "Perwyl"
   surname: "Liu"
-  title: "Fun and Audience Engagement"
+  title: "Fun and Swags"
   thumbnailUrl: perwyl.jpeg
   team: true
   social: 
@@ -109,10 +109,10 @@
 
 - 
   id: 10
-  name: "Min Li"
-  surname: "Lim"
-  title: "Design"
-  thumbnailUrl: min.jpg
+  name: "Kheng Meng"
+  surname: "Yeo"
+  title: "Emcee"
+  thumbnailUrl: ykm.jpg
   team: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mllim"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/yeokm1"}

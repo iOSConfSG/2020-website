@@ -47,7 +47,7 @@
   id: 104
   title: "Global Variable Oriented Programming"
   speakers: [3]
-  description: "To be added"
+  description: "To be addedIn this talk, Paul will walk you through the glorious history of global variables in software development, demonstrate why they aren’t going away any time soon, and even show you how you can use reflection, property wrappers, and Combine to get a little bit of global variable magic in your UIKit code."
 -
   id: 105
   title: "Break 🚻"
