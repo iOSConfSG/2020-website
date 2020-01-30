@@ -51,11 +51,11 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "iOS Conf <typeout> 2020"
-eventDate: "15th to 18th January, 2020"
+eventDate: "Thank You for Coming!"
 typeoutTextValues: '"", "SG", "Singapore"'
 typeoutFallback: "SG"
 heroButtons:
- - {link: "https://ti.to/iosconfsg/2020", text: "Buy Tickets"}
+ - {link: "https://www.papercall.io/iosconfsg2021", text: "CFP for 2021"}
 
 # About Block
 aboutTitle: "About iOS Conf SG"
